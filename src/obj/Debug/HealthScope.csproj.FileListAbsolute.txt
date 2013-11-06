@@ -1,0 +1,5 @@
+E:\Research\HealthScope\bin\Debug\HealthScope.dll
+E:\Research\HealthScope\bin\Debug\HealthScope.pdb
+E:\Research\HealthScope\obj\Debug\HealthScope.csprojResolveAssemblyReference.cache
+E:\Research\HealthScope\obj\Debug\HealthScope.dll
+E:\Research\HealthScope\obj\Debug\HealthScope.pdb
